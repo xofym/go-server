@@ -1,4 +1,4 @@
-module github.com/euskadi31/go-server
+module github.com/xyfom/go-server
 
 require (
 	github.com/PuerkitoBio/purell v1.1.0 // indirect
