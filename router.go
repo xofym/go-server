@@ -9,12 +9,12 @@ import (
 	"net/http"
 	"net/http/pprof"
 
-	"github.com/euskadi31/go-server/metrics"
-	"github.com/euskadi31/go-server/response"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/rs/cors"
+	"github.com/xofym/go-server/metrics"
+	"github.com/xofym/go-server/response"
 )
 
 // Router struct

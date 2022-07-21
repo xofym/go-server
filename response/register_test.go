@@ -7,8 +7,8 @@ package response
 import (
 	"testing"
 
-	"github.com/euskadi31/go-server/response/encoder"
 	"github.com/stretchr/testify/assert"
+	"github.com/xofym/go-server/response/encoder"
 )
 
 func TestRegister(t *testing.T) {

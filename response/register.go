@@ -5,7 +5,7 @@
 package response
 
 import (
-	"github.com/euskadi31/go-server/response/encoder"
+	"github.com/xofym/go-server/response/encoder"
 )
 
 var encoders = map[string]encoder.Encoder{}

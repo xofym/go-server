@@ -8,9 +8,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/euskadi31/go-server"
-	"github.com/euskadi31/go-server/request"
-	"github.com/euskadi31/go-server/response"
+	"github.com/xofym/go-server"
+	"github.com/xofym/go-server/request"
+	"github.com/xofym/go-server/response"
 )
 
 var userSchema = `{

@@ -8,9 +8,9 @@ import (
 	"bytes"
 	"net/http"
 
-	"github.com/euskadi31/go-server/response/encoder"
 	"github.com/golang/gddo/httputil"
 	"github.com/rs/zerolog/log"
+	"github.com/xofym/go-server/response/encoder"
 )
 
 // ResponseWriter interface for testing

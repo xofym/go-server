@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/euskadi31/go-server/response"
 	"github.com/rs/zerolog/log"
+	"github.com/xofym/go-server/response"
 )
 
 // Handler authentication
