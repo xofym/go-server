@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/euskadi31/go-server"
+	"github.com/xofym/go-server"
 	"github.com/rs/zerolog/log"
 )
 

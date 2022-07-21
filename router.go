@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/euskadi31/go-server/metrics"
+	"github.com/xofym/go-server/metrics"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/justinas/alice"
